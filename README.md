@@ -40,4 +40,4 @@ All the other informations related to the application is commented in the code
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cui-unige/drone-control/blob/issue%231/LICENSE) file for details
