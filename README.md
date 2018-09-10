@@ -26,6 +26,8 @@ git clone https://github.com/cui-unige/drone-control.git
 ```
 * open the Xcode project and verify [these fields](http://developer.parrot.com/docs/SDK3/#ios) are properly filled
 
+The Samples folder and droneProgrammer folder must be in the same directory (if you cannot retrieve the Samples folder you can find it [here](https://developer.parrot.com/docs/SDK3/#use-samples))
+
 The project contains all the elements of the [Parrot SDK3](http://developer.parrot.com/docs/SDK3/#general-information) we need to develop the application and also the Parrot library which contains all the settings of the drone 
 
 ## Documentation
