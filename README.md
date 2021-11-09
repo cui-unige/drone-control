@@ -42,8 +42,7 @@ All the other informations related to the application is commented in the code
 
 ## Author
 
-Marvin Fourastié
-Patrick Sardinha
+Marvin Fourastié - Patrick Sardinha
 
 ## License
 
