@@ -40,6 +40,11 @@ The SDK is written in Objective C and the application code is written in Swift, 
 
 All the other informations related to the application is commented in the code
 
+## Author
+
+Marvin Fourastié
+Patrick Sardinha
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cui-unige/drone-control/blob/issue%231/LICENSE) file for details
